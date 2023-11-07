@@ -1,4 +1,4 @@
-# To intsall all rhe required dependecies
+### To intsall all rhe required dependecies
 
 ```
 npm install
