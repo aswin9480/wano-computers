@@ -1,4 +1,4 @@
-### To intsall all rhe required dependecies
+### To install all the required dependecies
 
 ```
 npm install
