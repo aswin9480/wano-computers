@@ -32,8 +32,6 @@ Builds the app for production to the `build` folder.<br>
 
 ### Application Deployment on Vercel
 
-```
-https://wano-computers.vercel.app
-```
 
-Check out the website.<br>
+Check out Preview of the website.<br>
+https://wano-computers.vercel.app
