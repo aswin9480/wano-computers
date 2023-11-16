@@ -29,3 +29,11 @@ npm run build
 ```
 
 Builds the app for production to the `build` folder.<br>
+
+### Application Deployment on Vercel
+
+```
+https://wano-computers.vercel.app
+```
+
+Check out the website.<br>
