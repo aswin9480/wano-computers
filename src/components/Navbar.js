@@ -16,13 +16,13 @@ export default class Navbar extends Component {
                  <li className="nav-item ml-5">
                     <Link to="/" className="nav-link">
                       <h4>Products</h4> 
-                       <FontAwesomeIcon icon="fa-solid fa-cart-shopping" style={{color: "#1862e2",}} />
+                       <FontAwesomeIcon icon="fas fa-shopping-cart" style={{color: "#1862e2",}} />
                     </Link>
                  </li>
                </ul>
                <Link to="/cart" className="ml-auto">
                   <ButtonContainer>
-                      <i className="fas fa-cart-plus">Cart</i>
+                      <i className="fas fa-shopping-cart">Cart</i>
                   </ButtonContainer>
                </Link>
             </NavWrapper>
